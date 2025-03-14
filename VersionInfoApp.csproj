@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+
+    <!-- Git のコミットハッシュをバージョンに含める設定 -->
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+    <Deterministic>true</Deterministic>
+    <Version>1.0.0</Version>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionSuffix>$(GitCommitIdShort)</VersionSuffix>
+    <SourceRevisionId>$(GitCommitId)</SourceRevisionId>
+    <RepositoryUrl>https://github.com/YOUR-USERNAME/VersionInfoApp</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
