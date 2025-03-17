@@ -13,11 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VersionInfoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70695eb5f78fdbfacac1f7cb6b7e0a1e674f1365")]
 [assembly: System.Reflection.AssemblyProductAttribute("VersionInfoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VersionInfoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/YOUR-USERNAME/VersionInfoApp")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/yuzu0308/VersionInfoApp")]
 
 // MSBuild WriteCodeFragment クラスによって生成されました。
 

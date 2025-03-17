@@ -1,0 +1,6 @@
+/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/obj/Debug/net8.0/VersionInfoApp.csproj.AssemblyReference.cache
+/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/obj/Debug/net8.0/VersionInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/obj/Debug/net8.0/VersionInfoApp.csproj.CoreCompileInputs.cache
+/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/obj/Debug/net8.0/VersionInfoApp.sourcelink.json
+/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/obj/Debug/net8.0/VersionInfoApp.AssemblyInfoInputs.cache
+/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/obj/Debug/net8.0/VersionInfoApp.AssemblyInfo.cs

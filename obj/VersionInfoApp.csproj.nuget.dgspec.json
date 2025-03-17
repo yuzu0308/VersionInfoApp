@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/horiokayuta/Desktop/競プロ/CodingTest/VersionInfoApp/VersionInfoApp.csproj": {}
+    "/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/VersionInfoApp.csproj": {}
   },
   "projects": {
-    "/Users/horiokayuta/Desktop/競プロ/CodingTest/VersionInfoApp/VersionInfoApp.csproj": {
+    "/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/VersionInfoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/horiokayuta/Desktop/競プロ/CodingTest/VersionInfoApp/VersionInfoApp.csproj",
+        "projectUniqueName": "/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/VersionInfoApp.csproj",
         "projectName": "VersionInfoApp",
-        "projectPath": "/Users/horiokayuta/Desktop/競プロ/CodingTest/VersionInfoApp/VersionInfoApp.csproj",
+        "projectPath": "/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/VersionInfoApp.csproj",
         "packagesPath": "/Users/horiokayuta/.nuget/packages/",
-        "outputPath": "/Users/horiokayuta/Desktop/競プロ/CodingTest/VersionInfoApp/obj/",
+        "outputPath": "/Users/horiokayuta/Desktop/競プロ/VersionInfoApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/horiokayuta/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,11 +32,30 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

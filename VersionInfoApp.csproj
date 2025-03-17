@@ -11,7 +11,7 @@
     <VersionPrefix>1.0.0</VersionPrefix>
     <VersionSuffix>$(GitCommitIdShort)</VersionSuffix>
     <SourceRevisionId>$(GitCommitId)</SourceRevisionId>
-    <RepositoryUrl>https://github.com/YOUR-USERNAME/VersionInfoApp</RepositoryUrl>
+    <RepositoryUrl>https://github.com/yuzu0308/VersionInfoApp</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

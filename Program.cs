@@ -18,8 +18,8 @@ namespace VersionInfoApp
             Console.WriteLine($"Assembly Version: {version}");
 
             // Git のコミットハッシュを表示
-            string gitCommitHash = ThisAssembly.Git.Commit;
-            Console.WriteLine($"Git Commit Hash: {gitCommitHash}");
+            //string gitCommitHash = ThisAssembly.Git.Commit;
+            //Console.WriteLine($"Git Commit Hash: {gitCommitHash}");
         }
     }
 }
